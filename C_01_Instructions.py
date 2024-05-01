@@ -10,7 +10,7 @@ def yes_no(question):
         elif response == "no" or response == "n":
             return "no"
         else:
-            print("Please enter Yes or No")
+            print("Please enter Yes or No!")
 
 
 # displays instructions
@@ -18,11 +18,20 @@ def instruction():
     print('''
 ✦✦✦ Instructions ✦✦✦
 
-first off choose the desired rounds
+Welcome to the "..." Quiz!
 
-answer question
+To begin with, choose the desired rounds or press <enter>
+for endless questions,
 
-:)
+(You may choose to end the round by entering <xxx>),
+
+The rules are as follows:
+  • You get a maximum of three attempts,
+  • 
+  •
+  •
+ 
+Have Fun! :)
     ''')
 
 

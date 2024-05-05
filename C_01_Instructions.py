@@ -18,25 +18,28 @@ def instruction():
     print('''
 ✦✦✦ Instructions ✦✦✦
 
-Welcome to the "..." Quiz!
+Welcome to the Linear Equations Quiz!
 
 To begin with, choose the desired rounds or press <enter>
 for endless questions,
 
 (You may choose to end the round by entering <xxx>),
 
-The rules are as follows:
-  • You get a maximum of three attempts,
-  • 
-  •
-  •
- 
+Next, choose the game difficult (Easy, Medium & Hard) as it will determine
+the complexity of your question!,
+
+Your goal is to answer the question correctly 
+within the three attempts given,
+
+At the end of the game, your quiz statistics are displayed with
+the option of viewing the quiz history,
+
 Have Fun! :)
     ''')
 
 
 # Main routine
-print("✨ Area and Perimeter Quiz ✨")
+print("✨ Linear Equations Quiz ✨")
 
 # loop for testing purposes
 print()

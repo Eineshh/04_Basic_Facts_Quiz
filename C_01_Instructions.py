@@ -18,7 +18,7 @@ def instruction():
     print('''
 ✦✦✦ Instructions ✦✦✦
 
-Welcome to the Linear Equations Quiz!
+Welcome to the Basic Facts Quiz!
 
 To begin with, choose the desired rounds or press <enter>
 for endless questions,
@@ -28,8 +28,8 @@ for endless questions,
 Next, choose the game difficult (Easy, Medium & Hard) as it will determine
 the complexity of your question!,
 
-Your goal is to answer the question correctly 
-within the three attempts given,
+Your goal is to answer the question correctly within 
+the three attempts given,
 
 At the end of the game, your quiz statistics are displayed with
 the option of viewing the quiz history,
@@ -39,7 +39,7 @@ Have Fun! :)
 
 
 # Main routine
-print("✨ Linear Equations Quiz ✨")
+print("✨ Basic Facts Quiz ✨")
 
 # loop for testing purposes
 print()
